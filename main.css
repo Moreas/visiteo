@@ -1,0 +1,96 @@
+body {
+  background-image: url('images/grid.png');
+}
+
+
+.banner {
+  background-image: url('images/background.jpg');
+  padding-top: 150px;
+  padding-bottom: 270px;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+.banner h1 {
+  display: inline-block;
+  font-size: 52px;
+  background-color: rgba(0, 0, 0, .4);
+  text-shadow: 0 0 15px rgba(0, 0, 0, .8);
+  padding: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+}
+
+.banner h2 {
+  display: inline-block;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, .4);
+  padding: 5px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  margin-bottom: 50px;
+}
+
+.banner p {
+  margin-top: 15px;
+}
+
+
+.contact {
+  padding-top: 60px;
+  padding-bottom: 160px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, .6) ;
+}
+
+.contact h1 {
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.black-transparent {
+  background-color: rgba(0, 0, 0, .8);
+}
+
+.navbar-default .navbar-brand {
+  color:white;
+}
+
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: white;
+}
+
+.illustration {
+  padding-top: 60px;
+  padding-bottom: 40px;
+  display:block;
+}
+
+.col-xs-3 p {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 60px;
+}
+
+.email {
+ margin-right: 5px;
+}
+
+.btn-brown {
+  background-color: #A67F0C;
+  color: yellow;
+  border-radius: 8px;
+}
+
+
+.footer {
+  background-color: black;
+  color: white;
+  padding-top:30px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: white;
+}
